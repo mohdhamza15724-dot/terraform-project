@@ -1,6 +1,6 @@
 resource "aws_instance" "preprocess_ec2" {
 
-  ami           = "ami-0c2b8ca1dad447f8a"
+  ami           = "ami-0892d3c7ee96c0bf7"
 
   instance_type = "t3.micro"
 
